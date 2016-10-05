@@ -1,0 +1,65 @@
+Creative Computation Teaching and Learning Book Club
+
+1 Barr & Guzdial. Advice on Teaching CS, and the Learnability of Programming Languages.Communications of the ACM. March 2015. Pages 8-9. DOI:10.1145/271635
+
+Guzdial points to Andy Ko's blog post: "Programming languages are the least usable, but most powerful human-computer interfaces ever invented" (2014 03 25)
+http://blogs.uw.edu/ajko/2014/03/25/programming-languages-are-the-least-usable-but-most-powerful-human-computer-interfaces-ever-invented/
+
+Ko points to Jakob Neilsen's classic usability heuristics:
+from 1995:
+https://www.nngroup.com/articles/ten-usability-heuristics/
+restated in 2013:
+http://www.designprinciplesftw.com/collections/10-usability-heuristics-for-user-interface-design
+
+
+
+Jeff brought up failure today, I sent the following after our meeting.
+
+here is Amber Settle on the subject: Settle. Embracing Failure. 2014.
+https://ambersettle.wordpress.com/2014/01/28/embracing-failure/
+
+Andy Ko has a blog post from February 2016 on the invisibility of failure in CS:
+http://blogs.uw.edu/ajko/2016/02/12/the-invisibility-of-failure-in-computing-education/
+
+
+Guzdial has a chapter called "why is programming so hard to learn?" that came up when I searched for his name and failure in cs. it's longer:
+https://www.dropbox.com/s/bbvzpo4catpk9do/guzdial-why-hard-to-teach-2011.pdf?dl=0
+
+and Sister Corita Kent, a famous US art educator had this to say on the subject (often misattributed to John Cage, who adopted her rules):
+
+      Immaculate Heart College Art Department Rules
+      RULE ONE: Find a place you trust, and then try trusting it for awhile.
+
+      RULE TWO: General duties of a student — pull everything out of your teacher; pull everything out of your fellow students.
+      RULE THREE: General duties of a teacher — pull everything out of your students.
+
+      RULE FOUR: Consider everything an experiment.
+
+      RULE FIVE: Be self-disciplined — this means finding someone wise or smart and choosing to follow them. To be disciplined is to follow in a good way. To be self-disciplined is to follow in a better way.
+
+      RULE SIX: Nothing is a mistake. There’s no win and no fail, there’s only make.
+
+      RULE SEVEN: The only rule is work. If you work it will lead to something. It’s the people who do all of the work all of the time who eventually catch on to things.
+
+      RULE EIGHT: Don’t try to create and analyze at the same time. They’re different processes.
+
+      RULE NINE: Be happy whenever you can manage it. Enjoy yourself. It’s lighter than you think.
+
+      RULE TEN: “We’re breaking all the rules. Even our own rules. And how do we do that? By leaving plenty of room for X quantities.” (John Cage)
+
+      HINTS: Always be around. Come or go to everything. Always go to classes. Read anything you can get your hands on. Look at movies carefully, often. Save everything — it might come in handy later.
+
+      There should be new rules next week.
+
+Readings for 2016 09 25
+2a Myers, et al. Usability of Programming Languages Special Interest Group Meeting at CHI'2016. http://dx.doi.org/10.1145/2851581.2886434
+
+2b Blackwell. Usability of Programming Languages: MPhil in Advanced Computer Science Lecture Notes Easter Term 2011. University of Cambridge Computer Laboratory.
+
+
+Links to readings
+
+2a https://www.dropbox.com/s/y0imfd31acbpstm/chi-sig-usability%202016.pdf?dl=0
+
+2b
+https://www.dropbox.com/s/s6kya63qhn28q4w/Blackwell%20-%20Usability_of_Programming_Languages-notes.pdf?dl=0
