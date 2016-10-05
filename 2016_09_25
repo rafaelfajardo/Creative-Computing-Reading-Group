@@ -1,0 +1,35 @@
+Readings for 2016 09 25
+2a Myers, et al. Usability of Programming Languages Special Interest Group Meeting at CHI'2016. http://dx.doi.org/10.1145/2851581.2886434
+
+2b Blackwell. Usability of Programming Languages: MPhil in Advanced Computer Science Lecture Notes Easter Term 2011. University of Cambridge Computer Laboratory.
+
+
+Links to readings
+
+2a https://www.dropbox.com/s/y0imfd31acbpstm/chi-sig-usability%202016.pdf?dl=0
+
+2b
+https://www.dropbox.com/s/s6kya63qhn28q4w/Blackwell%20-%20Usability_of_Programming_Languages-notes.pdf?dl=0
+
+Resnick. Designing for Tinkerability.
+http://web.media.mit.edu/~mres/papers/designing-for-tinkerability.pdf
+
+Jeff presented an argument/critique on the limits of tinkerability in Scratch. To wit: once sets of blocks are snapped together, the default behavior is to treat them as a coherent whole. Changing out individual blocks is not as easy as snapping them together in the first place. This presents a kind of tendency toward inertia not found with text-based programming languages.
+
+We compared -- briefly -- Max/MSP, Quartz Composer, Unreal Engine 4 Blueprints, and Unity 3D plugin "Playmaker". Invoked IBM Systems Research that led to the attempt to make the flow chart be the finished program.
+
+Jeff and Chris mentioned Racket, the Racket Manifesto, and RacketCon:
+http://con.racket-lang.org
+http://www.thestrangeloop.com/about.html
+http://www.ccs.neu.edu/home/matthias/manifesto/
+
+
+Chödron. Fail, Fail Again, Fail Better: wise advice for leaning into the unknown. Sounds True. September 2015. ISBN: 978-1622035311
+https://www.amazon.com/Fail-Again-Better-Advice-Leaning/dp/1622035313
+
+Blackwell offers some useful language. He posits a programming language as the interface between a programmer and a machine. He can then locate the design of programming languages within the camp of HCI research.
+
+His text alludes to many other studies that it would be useful to explore.
+
+Readings for 2016 10 02
+3a Blackwell. Usability of Programming Languages: MPhil in Advanced Computer Science Lecture Notes Easter Term 2011. University of Cambridge Computer Laboratory. [we are continuing this reading]
