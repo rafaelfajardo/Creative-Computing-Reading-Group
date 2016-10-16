@@ -81,14 +81,52 @@ for next time:
 McIver et al. Seven Deadly Sins of Introductory Programming Language Design. IEEE Explorer 1996
 https://www.dropbox.com/s/kwtxf6yqb29aq7d/McIver%20-%20Seven%20Deadly%20Sins%20of%20Indrocutory%20Programming%20Language%20Design.pdf?dl=0
 
-Made. Some Recent Thoughts on Digital Media. DIS 2002
+Maeda. Some Recent Thoughts on Digital Media. DIS 2002
 https://www.dropbox.com/s/9046tj1mh3t4ank/maeda%20-%20some%20recen%20thoughts%20on.pdf?dl=0
 
-Read and Fry. Processing Programming for the Media Arts. AI & Society 2006
+Reas and Fry. Processing Programming for the Media Arts. AI & Society 2006
 https://www.dropbox.com/s/wlouzxzg93c5kcy/Reas%20and%20Fry%20-%20Processing%20programming%20for%20media%20arts.pdf?dl=0
 
 
 
 
 Discussion notes:
-interesting stuff happened. I will put more details here later.
+Jeff and Chris shared their progress on remaking Maeda's programming language, Design By Numbers (DBN), in Racket, a programming language for writing programming languages. This task is congruent with our reading group values because it's an example of constructing an artifact in order to build understanding. Chris and Jeff want to examine decisions made by John Maeda -- and any of his collaborators -- in the design of the their language and editor. This means they are conducting a very close reading of both his book and of his API. They are -- in a manner of speaking -- reverse engineering DBN. They are -- also -- using a time-tested learning strategy in the visual arts; they are sitting before a (master) work and attempting to copy it, and, by so doing are finding both questions and insights. 
+
+It was mentioned that Rafael is now listed as a member of a research group in Daniel Felix Ritchie School of Engineering and Computer Science. Now we need to strategize where to publish the work of this group.
+
+CHI 2017 is located in Denver in May. CHI is the Special Insterest Group for Computer Human Interaction of the Association of Computing Machinery. The deadline for full papers has already passed, but the deadlines for New Work is in January, as is the deadline for Alt-CHI, a forum for transgressive thought in computer-human interaction. There is an Art program, but it hasn't published details yet.
+
+Jeff would certainly like to publish at RacketCon, the conference for users/scholars of Racket.
+
+We talked about some peculiarities that Chris and Jeff have found with DBN. Chris was trying to make sense of the Dynamic Binding of values to variables in DBN. He showed an expression such that:
+
+Set X 3
+{
+  Set X 5
+  }
+Print X
+
+and asked Rafael what he thought the outcome would be.
+Rafael said 5
+
+and Jeff interjected a detail about the meaning of the { curly braces and what they signal }
+which Rafael described as the creation and disappearance of a pocket universe inside the curly braces
+so, Jeff continued, the outcome should be 3
+
+But, Chris said, DBM said 5.
+Rafael suggested that a novice programmer may have an easier time following the sequence of instructions that disregards the history of other computer languages and their uses of curly braces.
+
+Another ideosyncracy that Jeff has been trying to tease out is the networked name space available in DBN
+Rafael tried out the metaphor of Dropbox (the cloud-based file sharing tool) to understand the way it seems to work
+Chris mentioned that he would like to talk to artists to see how they might use a construct of this kind
+Rafael spun out a scenario using networked Raspberry Pi's and a garden simulation with bees visiting each potted plant (raspberry pi) and their location being handed off via a shared set of files or values at these network addresses.
+
+We moved on to discuss pages 1-7 of the reading
+Jeff pointed out the outline of the Cognitive Dimensions on Page 7
+Rafael pointed to a possible critique with to respect to "what constitutes a SUB device"
+Jeff had some questions that were answered on page 7
+
+We discussed what we might want to read next.
+
+
