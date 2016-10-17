@@ -4,6 +4,7 @@ https://www.dropbox.com/s/o3malbb8jlqsj94/BlackwellGreen%20-%20Notational%20Syst
 
 we did not meet on 2016 10 09 and so discussion of this reading was tabled until 2016 10 16
 
+======
 Rafael's reading notes:
 Blackwell & Green. “Cognitive Dimensions of Notational Frameworks”. Notational Systems.
 
@@ -75,11 +76,14 @@ medium of interaction
 
 page 8:
 gives details about the components, or — rather — details the sub-components
+Seven Deadly Sins of Introductory Programming Language Design. IEEE Explorer 1996
+https://www.dropbox.co
 
 
+
+======
 for next time:
-McIver et al. Seven Deadly Sins of Introductory Programming Language Design. IEEE Explorer 1996
-https://www.dropbox.com/s/kwtxf6yqb29aq7d/McIver%20-%20Seven%20Deadly%20Sins%20of%20Indrocutory%20Programming%20Language%20Design.pdf?dl=0
+McIver et al. m/s/kwtxf6yqb29aq7d/McIver%20-%20Seven%20Deadly%20Sins%20of%20Indrocutory%20Programming%20Language%20Design.pdf?dl=0
 
 Maeda. Some Recent Thoughts on Digital Media. DIS 2002
 https://www.dropbox.com/s/9046tj1mh3t4ank/maeda%20-%20some%20recen%20thoughts%20on.pdf?dl=0
@@ -89,7 +93,7 @@ https://www.dropbox.com/s/wlouzxzg93c5kcy/Reas%20and%20Fry%20-%20Processing%20pr
 
 
 
-
+======
 Discussion notes:
 Jeff and Chris shared their progress on remaking Maeda's programming language, Design By Numbers (DBN), in Racket, a programming language for writing programming languages. This task is congruent with our reading group values because it's an example of constructing an artifact in order to build understanding. Chris and Jeff want to examine decisions made by John Maeda -- and any of his collaborators -- in the design of the their language and editor. This means they are conducting a very close reading of both his book and of his API. They are -- in a manner of speaking -- reverse engineering DBN. They are -- also -- using a time-tested learning strategy in the visual arts; they are sitting before a (master) work and attempting to copy it, and, by so doing are finding both questions and insights. 
 
@@ -114,7 +118,7 @@ and Jeff interjected a detail about the meaning of the { curly braces and what t
 which Rafael described as the creation and disappearance of a pocket universe inside the curly braces
 so, Jeff continued, the outcome should be 3
 
-But, Chris said, DBM said 5.
+But, Chris said, DBN said 5.
 Rafael suggested that a novice programmer may have an easier time following the sequence of instructions that disregards the history of other computer languages and their uses of curly braces.
 
 Another ideosyncracy that Jeff has been trying to tease out is the networked name space available in DBN
