@@ -103,6 +103,13 @@ CHI 2017 is located in Denver in May. CHI is the Special Insterest Group for Com
 
 Jeff would certainly like to publish at RacketCon, the conference for users/scholars of Racket.
 
+Update: the Eyeo festival (pronounced eye oh, or IO) may be a place to disseminate within the domain of Creative Computation. Here are examples of a workshop hosted by Lauren McCarthy and Evelyn Eastmond that introduced the P5.JS project:
+http://eyeofestival.com/2014/speaker/lauren-mccarthy/
+http://eyeofestival.com/2014/speaker/evelyn-eastmond/
+
+And an example of Evelyn Eastmond presenting Scratch to CHI Boston in 2009, where she discusses the design considerations and reveals that the first version of Scratch was built in SmallTalk. She also points to the genealogy or prior work that informed Scratch:
+https://www.youtube.com/watch?v=8TCPYrUPcIg
+
 We talked about some peculiarities that Chris and Jeff have found with DBN. Chris was trying to make sense of the Dynamic Binding of values to variables in DBN. He showed an expression such that:
 
 Set X 3
@@ -132,6 +139,7 @@ Rafael pointed to a possible critique with to respect to "what constitutes a SUB
 Jeff had some questions that were answered on page 7
 
 We discussed what we might want to read next.
+We discussed genealogy of some projects and programming languages.
 
 We discussed venue choices for Global Game Jam, which is being organized by Computer Science, but which may need a space.
 We discussed architectural optimization for the HTC Vive, which both EDP and CS have. Chris had observed that a way to hang the headset cable on the ceiling would have been useful. Rafael remarked that EDP had done just that in the Hypercube.
